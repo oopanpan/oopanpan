@@ -3,7 +3,7 @@
 
 ## I'm a recent graduate from Flatiron School, I make apps.
 
-##### I also like going to the gym.
+##### I'm an uprising full-stack software engineer base in Seattle, WA with a background in art and hospitality. Solving day-to-day problem with new technology is one of my passion. I believe internet and technology are made for everyone to improve our living quality. With this idea in mind, I'm commited to always learning to make scalable apps that would benefit everyone.
 ##### Goal for 2021 - master a strongly typed language.
 
 ## Technologies
