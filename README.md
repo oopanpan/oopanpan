@@ -1,6 +1,13 @@
 <h1 align='center'> Hi there, I'm Pan 👋 </h1>
+<p align='center'></p>
 
-### 
+### I'm a recent graduate from Flatiron School, I make apps.
+#### I also like going to the gym.
+
+### Goal for 2021 - master a strongly typed language.
+
+## Technologies
+
 
 <!--
 **oopanpan/oopanpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
