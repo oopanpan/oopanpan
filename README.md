@@ -1,12 +1,12 @@
 <h1 align='center'> Hi there, I'm Pan 👋 </h1>
 <p align='center'></p>
 
-### I'm a recent graduate from Flatiron School, I make apps.
-#### I also like going to the gym.
+#### I'm a recent graduate from Flatiron School, I make apps.
 
-### Goal for 2021 - master a strongly typed language.
+##### I also like going to the gym.
+##### Goal for 2021 - master a strongly typed language.
 
-## Technologies
+### Technologies
 
 
 <!--
