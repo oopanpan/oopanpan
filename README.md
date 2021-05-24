@@ -7,6 +7,9 @@
 ##### Goal for 2021 - master a strongly typed language.
 
 ## Technologies
+Ruby, Ruby on Rails
+JavaScript, React, Redux, Node.js, Express
+PostgreSQL, MongoDB, SQLite3
 
 
 <!--
